@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'django.contrib.sitemaps',
     'phone_field',
-    'metatags',
 ]
 
 SITE_ID = 1
